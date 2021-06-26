@@ -18,4 +18,9 @@ class Controller extends BaseController
 
         return env('APP_URL') . '/' . $designation . $file_name;
     }
+
+
+    //   syednoufil_new_bookstore
+    //   syednoufil_awan
+    //   kD}l1Pj=0y%g
 }
